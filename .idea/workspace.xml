@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00f55a15-828e-475e-8152-41225e4aea2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pc1pt5oslHtVRESZxMNtHFh34C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/example/myspring" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my\javaweb\手写springIoc\SpringIocExample\src\main\java\org\example\myspring" />
+      <recent name="D:\my\javaweb\手写springIoc\SpringIocExample\src\main\java\org\example\myspring\entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="SpringIocExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.myspring.Test" />
+      <module name="SpringIocExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.myspring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00f55a15-828e-475e-8152-41225e4aea2f" name="Default Changelist" comment="" />
+      <created>1615467750227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615467750227</updated>
+      <workItem from="1615467753001" duration="1953000" />
+      <workItem from="1615470314333" duration="4900000" />
+      <workItem from="1615483442880" duration="84000" />
+      <workItem from="1615483537268" duration="4066000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1136" height="180" key="GridCell.Tab.0.bottom" timestamp="1615483426479">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1136" height="180" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1615483426479" />
+    <state width="1136" height="180" key="GridCell.Tab.0.center" timestamp="1615483426479">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1136" height="180" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1615483426479" />
+    <state width="1136" height="180" key="GridCell.Tab.0.left" timestamp="1615483426479">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1136" height="180" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1615483426479" />
+    <state width="1136" height="180" key="GridCell.Tab.0.right" timestamp="1615483426479">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1136" height="180" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1615483426479" />
+    <state x="0" y="143" key="Maven.ArtifactSearchDialog" timestamp="1615469846012">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="0" y="143" key="Maven.ArtifactSearchDialog/0.0.1549.831@0.0.1549.831" timestamp="1615469846012" />
+    <state x="284" y="58" key="SettingsEditor" timestamp="1615483526552">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="284" y="58" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1615483526552" />
+    <state x="624" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1615483546558">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="624" y="367" key="com.intellij.ide.util.TipDialog/0.0.1549.831@0.0.1549.831" timestamp="1615483546558" />
+    <state x="432" y="189" key="run.anything.popup" timestamp="1615481795500">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="432" y="189" key="run.anything.popup/0.0.1549.831@0.0.1549.831" timestamp="1615481795500" />
+    <state x="862" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1615470673873">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="862" y="152" width="672" height="678" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1615470673873" />
+  </component>
+</project>
